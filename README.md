@@ -9,6 +9,10 @@
 
 ---
 
+运行前需自行替换 WeiboDemo.weiboAPI.h 的 APP_KEY 和 APP_SECRET；
+
+---
+
 效果图：
 
 ![](https://raw.githubusercontent.com/JeOam/WeiboDemo/master/Screen%20Shot%202014-05-11%20at%2022.58.09.png)
