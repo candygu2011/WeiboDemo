@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-WeiboDemo-ASIHTTPRequest.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-WeiboDemo-JSONKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-WeiboDemo-MBProgressHUD.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-WeiboDemo-Reachability.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-WeiboDemo.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0607C3CCE23F4D0F8BD04E07</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7B57B09276A14D63BF22CCA7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>884EB16DC20A4C0486237A30</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BBD8046437F042628F6BFF22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ECE81896773042FB83F3E8A1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

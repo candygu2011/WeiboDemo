@@ -1,0 +1,30 @@
+PODS:
+  - ASIHTTPRequest (1.8.1):
+    - ASIHTTPRequest/ASIWebPageRequest
+    - ASIHTTPRequest/CloudFiles
+    - ASIHTTPRequest/Core
+    - ASIHTTPRequest/S3
+  - ASIHTTPRequest/ASIWebPageRequest (1.8.1):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/CloudFiles (1.8.1):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/Core (1.8.1):
+    - Reachability
+  - ASIHTTPRequest/S3 (1.8.1):
+    - ASIHTTPRequest/Core
+  - JSONKit (1.5pre)
+  - MBProgressHUD (0.8)
+  - Reachability (3.1.1)
+
+DEPENDENCIES:
+  - ASIHTTPRequest (= 1.8.1)
+  - JSONKit (= 1.5pre)
+  - MBProgressHUD (~> 0.8)
+
+SPEC CHECKSUMS:
+  ASIHTTPRequest: c5df4900c0dcfcf02226fd96b202f4b6caf989d4
+  JSONKit: b1f52f3f522b8602307769511d4fb47c6f856159
+  MBProgressHUD: 2bbc6f470111daf7f3eaa4eb12b8cbf01c4c0622
+  Reachability: be4883bb93f31e38266ae3365e5600a317aae735
+
+COCOAPODS: 0.32.1
