@@ -10,5 +10,6 @@
 ---
 
 效果图：
+
 ![](https://raw.githubusercontent.com/JeOam/WeiboDemo/master/Screen%20Shot%202014-05-11%20at%2022.58.09.png)
 ![](https://raw.githubusercontent.com/JeOam/WeiboDemo/master/Screen%20Shot%202014-05-11%20at%2022.58.52.png)
